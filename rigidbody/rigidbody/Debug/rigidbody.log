@@ -1,0 +1,102 @@
+﻿生成启动时间为 2014/2/21 星期五 20:23:03。
+     1>项目“C:\Users\suitmyself\Desktop\图形学资料\rigidbody\rigidbody\rigidbody.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\rigidbody.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Matrix.cpp RigidBody.cpp
+         RigidBody.cpp
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(69): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(70): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(106): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(107): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(128): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(147): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(186): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(187): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(188): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(199): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(219): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(318): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(319): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(320): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(442): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(486): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(537): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(588): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(620): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(621): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(622): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(624): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(625): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(626): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(633): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(642): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(643): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(644): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(646): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(647): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(648): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\rigidbody.cpp(833): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+         Matrix.cpp
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(479): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(873): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(874): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(875): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(876): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1129): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1260): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1261): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1262): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1296): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1297): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1301): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1305): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1342): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1379): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1380): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1381): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1382): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1392): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1399): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1406): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1413): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1427): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1470): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1475): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1486): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1487): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1490): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1492): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\matrix.cpp(1532): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         main.cpp
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\main.cpp(14): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\suitmyself\desktop\图形学资料\rigidbody\rigidbody\main.cpp(15): warning C4305: “初始化”: 从“double”到“float”截断
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\suitmyself\Desktop\图形学资料\rigidbody\Debug\rigidbody.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\rigidbody.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\suitmyself\Desktop\图形学资料\rigidbody\Debug\rigidbody.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\suitmyself\Desktop\图形学资料\rigidbody\Debug\rigidbody.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Matrix.obj
+         Debug\RigidBody.obj
+         LINK : 没有找到 C:\Users\suitmyself\Desktop\图形学资料\rigidbody\Debug\rigidbody.exe 或上一个增量链接没有生成它；正在执行完全链接
+         rigidbody.vcxproj -> C:\Users\suitmyself\Desktop\图形学资料\rigidbody\Debug\rigidbody.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\suitmyself\Desktop\图形学资料\rigidbody\Debug\rigidbody.exe;#1" /manifest Debug\rigidbody.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\rigidbody.unsuccessfulbuild”。
+         正在对“Debug\rigidbody.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\suitmyself\Desktop\图形学资料\rigidbody\rigidbody\rigidbody.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.88
